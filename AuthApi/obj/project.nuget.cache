@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Abi5iDM4n8c=",
+  "dgSpecHash": "XHwMb4Yhm54=",
   "success": true,
-  "projectFilePath": "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\AuthApi\\AuthApi\\AuthApi.csproj",
+  "projectFilePath": "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\00 Projetos pessoais\\AuthApi\\AuthApi\\AuthApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\santo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

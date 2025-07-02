@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\AuthApi\\AuthApi\\AuthApi.csproj": {}
+    "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\00 Projetos pessoais\\AuthApi\\AuthApi\\AuthApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\AuthApi\\AuthApi\\AuthApi.csproj": {
+    "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\00 Projetos pessoais\\AuthApi\\AuthApi\\AuthApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\AuthApi\\AuthApi\\AuthApi.csproj",
+        "projectUniqueName": "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\00 Projetos pessoais\\AuthApi\\AuthApi\\AuthApi.csproj",
         "projectName": "AuthApi",
-        "projectPath": "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\AuthApi\\AuthApi\\AuthApi.csproj",
+        "projectPath": "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\00 Projetos pessoais\\AuthApi\\AuthApi\\AuthApi.csproj",
         "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\AuthApi\\AuthApi\\obj\\",
+        "outputPath": "C:\\Users\\santo\\OneDrive\\Documentos\\Programação em C#\\00 Projetos pessoais\\AuthApi\\AuthApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
